@@ -1,0 +1,3 @@
+USE db1;
+SELECT * FROM tb;
+SELECT * FROM tb1;

@@ -1,0 +1,7 @@
+DROP TABLE IF EXISTS tb3;
+CREATE TABLE tb3 (empid varchar(10),region varchar(10));
+INSERT into tb3 values('A101','东京都');
+INSERT into tb3 values('A102','埼玉县');
+INSERT into tb3 values('A103','神奈川县');
+INSERT into tb3 values('A104','北海道');
+INSERT into tb3 values('A105','静冈县');

@@ -1,0 +1,43 @@
+DROP TABLE IF EXISTS tb1A;
+CREATE TABLE tb1A (empid VARCHAR(10),name VARCHAR(10),age INT);
+INSERT INTO tb1A VALUES("A101","×ôÌÙ",40),("A102","¸ßÇÅ",28),("A103","ÖÐ´¨",20),("A104","¶É±ß",23),("A105","Î÷Ôó",35);
+
+DROP TABLE IF EXISTS tb1B;
+CREATE TABLE tb1B (empid VARCHAR(10),name VARCHAR(10),age INT);
+INSERT INTO tb1B VALUES("A101","×ôÌÙ",40),("A102","¸ßÇÅ",28),("A103","ÖÐ´¨",20),("A104","¶É±ß",23),("A105","Î÷Ôó",35);
+
+DROP TABLE IF EXISTS tb1C;
+CREATE TABLE tb1C (empid VARCHAR(10),name VARCHAR(10),age INT);
+INSERT INTO tb1C VALUES("A101","×ôÌÙ",40),("A102","¸ßÇÅ",28),("A103","ÖÐ´¨",20),("A104","¶É±ß",23),("A105","Î÷Ôó",35);
+
+DROP TABLE IF EXISTS tb1D;
+CREATE TABLE tb1D (empid VARCHAR(10),name VARCHAR(10),age INT);
+INSERT INTO tb1D VALUES("A101","×ôÌÙ",40),("A102","¸ßÇÅ",28),("A103","ÖÐ´¨",20),("A104","¶É±ß",23),("A105","Î÷Ôó",35);
+
+DROP TABLE IF EXISTS tb1E;
+CREATE TABLE tb1E (empid VARCHAR(10),name VARCHAR(10),age INT);
+INSERT INTO tb1E VALUES("A101","×ôÌÙ",40),("A102","¸ßÇÅ",28),("A103","ÖÐ´¨",20),("A104","¶É±ß",23),("A105","Î÷Ôó",35);
+
+DROP TABLE IF EXISTS tb1F;
+CREATE TABLE tb1F (empid VARCHAR(10),name VARCHAR(10),age INT);
+INSERT INTO tb1F VALUES("A101","×ôÌÙ",40),("A102","¸ßÇÅ",28),("A103","ÖÐ´¨",20),("A104","¶É±ß",23),("A105","Î÷Ôó",35);
+
+DROP TABLE IF EXISTS tb1G;
+CREATE TABLE tb1G (empid VARCHAR(10),name VARCHAR(10),age INT);
+INSERT INTO tb1G VALUES("A101","×ôÌÙ",40),("A102","¸ßÇÅ",28),("A103","ÖÐ´¨",20),("A104","¶É±ß",23),("A105","Î÷Ôó",35);
+
+DROP TABLE IF EXISTS tb1H;
+CREATE TABLE tb1H (empid VARCHAR(10),name VARCHAR(10),age INT);
+INSERT INTO tb1H VALUES("A101","×ôÌÙ",40),("A102","¸ßÇÅ",28),("A103","ÖÐ´¨",20),("A104","¶É±ß",23),("A105","Î÷Ôó",35);
+
+DROP TABLE IF EXISTS tb1I;
+CREATE TABLE tb1I (empid VARCHAR(10),name VARCHAR(10),age INT);
+INSERT INTO tb1I VALUES("A101","×ôÌÙ",40),("A102","¸ßÇÅ",28),("A103","ÖÐ´¨",20),("A104","¶É±ß",23),("A105","Î÷Ôó",35);
+
+DROP TABLE IF EXISTS tb1J;
+CREATE TABLE tb1J (empid VARCHAR(10),name VARCHAR(10),age INT);
+INSERT INTO tb1J VALUES("A101","×ôÌÙ",40),("A102","¸ßÇÅ",28),("A103","ÖÐ´¨",20),("A104","¶É±ß",23),("A105","Î÷Ôó",35);
+
+DROP TABLE IF EXISTS tb1K;
+CREATE TABLE tb1K (empid VARCHAR(10),name VARCHAR(10),age INT);
+INSERT INTO tb1K VALUES("A101","×ôÌÙ",40),("A102","¸ßÇÅ",28),("A103","ÖÐ´¨",20),("A104","¶É±ß",23),("A105","Î÷Ôó",35);

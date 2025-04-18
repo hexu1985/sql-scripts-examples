@@ -1,0 +1,7 @@
+DROP TABLE IF EXISTS t_name;
+CREATE TABLE t_name (a VARCHAR(10));
+INSERT INTO t_name VALUES("À…Œ≤");
+INSERT INTO t_name VALUES(" –¥®");
+INSERT INTO t_name VALUES("œÁ");
+INSERT INTO t_name VALUES("“¡ÃŸ");
+INSERT INTO t_name VALUES("∏‘ÃÔ");

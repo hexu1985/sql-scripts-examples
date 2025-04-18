@@ -1,0 +1,3 @@
+DROP TABLE IF EXISTS t_tran;
+CREATE TABLE t_tran (a INT);
+INSERT INTO t_tran VALUES (100);
